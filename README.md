@@ -30,13 +30,16 @@ In the EDA I explored the data to identify patterns, trends, and relationships -
 I used statistical measures to calculate daily new cases and estimate the cumulative average new cases of the pandemic in specific regions. A snippet of some codes below:
 ~~~ SQL
 --Comparing Ratio of Total Cases Vs Population
+
 SELECT location, population, MAX(total_cases) AS InfectionCount,
 ROUND(MAX(CAST(total_cases AS FLOAT)/population) * 100,2) AS percentPopulationInfected
 FROM covidDeaths WHERE continent IS NOT NULL
 GROUP BY location, population ORDER BY 3 DESC;
 
 
+
 --Showing Countries with the Highest Death Count per Population
+
 SELECT location, MAX(total_deaths) AS totalDeathCount
 FROM covidDeaths WHERE continent IS NOT NULL
 GROUP BY location 
@@ -44,14 +47,12 @@ ORDER BY totalDeathCount DESC;
 
 
 
-
---Showing the Continent with the highest Death Count 
+--Showing the Continent with the highest Death Count
 
 SELECT continent, MAX(total_deaths) AS totalDeathCount
 FROM covidDeaths WHERE continent IS NOT NULL
 GROUP BY continent 
 ORDER BY totalDeathCount DESC;
-
 
 
 
@@ -94,19 +95,6 @@ SELECT *,
 ROUND((CONVERT(float,cumulative_vaccinations)/population) * 100,2) 
 AS percent_cumulative
 FROM popVac;
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ~~~
 
