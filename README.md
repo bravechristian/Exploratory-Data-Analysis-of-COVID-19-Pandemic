@@ -16,4 +16,4 @@ The first step involves gathering relevant data related to COVID-19, including i
 <br/><br/>
 
 ### Data Preprocessing & Transformations
-Once the data is collected, preprocessing steps are performed to clean and prepare it for analysis. This may involve handling missing values, removing duplicates, standardizing data formats, and aggregating data at appropriate levels (e.g., daily, weekly, by country or region).
+Once the data was collected, I preprocessed it by removing columns I didn't need, and handling blank and null values to prepare for analysis. This may involve handling missing values, removing duplicates, standardizing data formats, and aggregating data at appropriate levels (e.g., daily, weekly, by country or region).
