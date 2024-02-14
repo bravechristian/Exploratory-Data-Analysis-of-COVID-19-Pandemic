@@ -103,10 +103,10 @@ FROM popVac;
 
 ### Interpretation of Findings:
 The result of the analysis is summarised as follows: 
-- 1.  More confirmed instances were being reported than were being vaccinated against.
-- 2.  Compared to Africa, Europe and Asia saw a higher number of new cases and deaths overall.
-- 3.  When 2020 came to an end, the number of new cases increased less rapidly.
-- 4.  Compared to rural settlements, there were more cases reported in denser regions. 
+-  More confirmed instances were being reported than were being vaccinated against.
+-  Compared to Africa, Europe, and Asia saw a higher number of new cases and deaths overall.
+-  When 2020 came to an end, the number of new cases increased less rapidly.
+-  Compared to rural settlements, there were more cases reported in denser regions. 
 <br/><br/>
 
 
