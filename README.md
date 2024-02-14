@@ -21,11 +21,17 @@ Once the data was collected, I preprocessed it by removing columns I didn't need
 
 ### Exploratory Data Analysis (EDA)
 In the EDA I explored the data to identify patterns, trends, and relationships - Answering the following questions:
-- What are the temporal trends in COVID-19 metrics (daily new cases, deaths) \
+- What are the temporal trends in COVID-19 metrics (daily new cases, deaths) 
 - What are the geographical variations in case distribution, investigating demographic factors (e.g., age, gender)
 - What and the correlations between COVID-19 indicators and other variables (e.g., population density, healthcare capacity)
 <br/><br/>
 
+### Data Analysis
+I used statistical measures to calculate daily new cases and estimate the cumulative average new cases of the pandemic in specific regions. A snippet of some codes below:
+~~~ SQL
+
+
+~~~
 
 
 
