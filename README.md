@@ -117,6 +117,12 @@ The result of the analysis is summarised as follows:
 - Evaluate the effectiveness of implemented public health measures and adjust strategies as needed to address emerging trends and challenges.
 - Monitor and respond to changes in virus transmission dynamics, including the emergence of new variants, to prevent future outbreaks.
 - Implement targeted interventions in densely populated areas to reduce transmission, such as increased testing, contact tracing, and access to healthcare services.
+  <br/><br/>
+
+### Limitations
+- This project analysis relied heavily on the quality and availability of COVID-19 data from WHO, which may vary between countries and regions from time to time.
+- Inaccuracies, inconsistencies, and delays in reporting can affect the reliability of the analysis and conclusions drawn from the data.
+- Missing data or incomplete records may limit the depth and scope of the analysis, potentially leading to incomplete or biased results.
 
 
 
