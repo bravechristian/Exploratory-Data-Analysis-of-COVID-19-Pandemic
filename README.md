@@ -16,4 +16,22 @@ The first step involves gathering relevant data related to COVID-19, including i
 <br/><br/>
 
 ### Data Preprocessing & Transformations
-Once the data was collected, I preprocessed it by removing columns I didn't need, and handling blank and null values to prepare for analysis. 
+Once the data was collected, I preprocessed it by removing columns I didn't need, and handling blank and null values to prepare for analysis.
+<br/><br/>
+
+### Exploratory Data Analysis (EDA)
+In the EDA I explored the data to identify patterns, trends, and relationships - Answering the following questions:
+- What are the temporal trends in COVID-19 metrics (daily new cases, deaths) \
+- What are the geographical variations in case distribution, investigating demographic factors (e.g., age, gender)
+- What and the correlations between COVID-19 indicators and other variables (e.g., population density, healthcare capacity)
+<br/><br/>
+
+
+
+
+
+
+
+
+
+
