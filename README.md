@@ -123,6 +123,27 @@ The result of the analysis is summarised as follows:
 - This project analysis relied heavily on the quality and availability of COVID-19 data from WHO, which may vary between countries and regions from time to time.
 - Inaccuracies, inconsistencies, and delays in reporting can affect the reliability of the analysis and conclusions drawn from the data.
 - Missing data or incomplete records may limit the depth and scope of the analysis, potentially leading to incomplete or biased results.
+<br/><br/>
+
+
+### Summary
+To put it briefly, the goal of a COVID-19 data analysis study is to use data-driven methodologies to comprehend the dynamics of the pandemic, guide decision-making, and support initiatives to manage and lessen its effects on society and public health. 
+<br/><br/>
+
+
+### References
+
+-  [World Health Organization](https://www.who.int)
+-  [MySQL Official Website](https://dev.mysql.com/doc)
+-  [Microsoft Transact SQL Documentation](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16)
+-  [Data Analysis Expression Language](dax.guide)
+
+
+
+
+
+
+<br/><br/><br/><br/>
 
 
 
