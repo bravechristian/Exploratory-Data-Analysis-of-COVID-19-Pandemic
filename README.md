@@ -100,13 +100,29 @@ FROM popVac;
 ~~~
 
 <br/><br/>
+### Visuals
 
+![V1](https://github.com/bravechristian/Exploratory-Data-Analysis-of-COVID-19-Pandemic/assets/113802347/6fbf6446-a0d3-4b58-817e-55a0e1f18b39)
+
+![V2](https://github.com/bravechristian/Exploratory-Data-Analysis-of-COVID-19-Pandemic/assets/113802347/9c9c106c-27a6-4b72-ae2c-0427dfe6302e)
+
+![V3](https://github.com/bravechristian/Exploratory-Data-Analysis-of-COVID-19-Pandemic/assets/113802347/6a60c033-d9b4-46f3-8685-ee75fba7a523)
+
+![V4](https://github.com/bravechristian/Exploratory-Data-Analysis-of-COVID-19-Pandemic/assets/113802347/3147a43f-5877-42d3-b581-b68c7ee39aaa)
+
+
+
+
+
+
+<br/><br/>
 ### Interpretation of Findings:
 The result of the analysis is summarised as follows: 
 -  More confirmed instances were being reported than were being vaccinated against.
 -  Compared to Africa, Europe, and Asia saw a higher number of new cases and deaths overall.
--  When 2020 came to an end, the number of new cases increased less rapidly.
--  Compared to rural settlements, there were more cases reported in denser regions. 
+-  When 2022 came to an end, the number of new cases increased less rapidly.
+-  Compared to rural settlements, there were more cases reported in denser regions.
+-  The number of total cases increased from 2020 to 2022
 <br/><br/>
 
 ### Recommendations
