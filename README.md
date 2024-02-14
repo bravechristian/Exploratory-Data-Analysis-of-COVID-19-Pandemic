@@ -2,7 +2,8 @@
 <br/><br/>
 
 ### Overview
-This COVID-19 data analysis project aims to explore and analyze various aspects of the pandemic using available data sources, such as official reports, and datasets from the World Health Organization. The project typically involves several key steps, including data collection, preprocessing, exploratory data analysis (EDA), visualization, and interpretation of findings.
+This COVID-19 data analysis project aims to explore and analyze various aspects of the pandemic using available data sources, such as official reports, and datasets from the World Health Organization. The project typically involves several key steps, including data collection, preprocessing, exploratory data analysis (EDA), visualization, and interpretation of findings. 
+##### Note this analysis was done immediately after the lockdown was lifted
 <br/><br/>
 
 ### Data Collection
@@ -98,9 +99,12 @@ FROM popVac;
 
 ~~~
 
+<br/><br/>
 
-
-
+### Interpretation of Findings:
+The result of the analysis is summarised as follows: 
+- 1.  More rate of confirmed cases was more than the rate of vaccinations
+<br/><br/>
 
 
 
