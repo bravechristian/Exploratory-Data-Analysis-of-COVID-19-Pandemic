@@ -29,6 +29,17 @@ In the EDA I explored the data to identify patterns, trends, and relationships -
 ### Data Analysis
 I used statistical measures to calculate daily new cases and estimate the cumulative average new cases of the pandemic in specific regions. A snippet of some codes below:
 ~~~ SQL
+--Comparing Ratio of Total Cases Vs Population
+
+SELECT location, population, MAX(total_cases) AS InfectionCount,
+ROUND(MAX(CAST(total_cases AS FLOAT)/population) * 100,2) AS percentPopulationInfected
+FROM covidDeaths WHERE continent IS NOT NULL
+GROUP BY location, population ORDER BY 3 DESC;
+
+
+
+
+
 
 
 ~~~
